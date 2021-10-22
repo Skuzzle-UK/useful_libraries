@@ -1,4 +1,3 @@
-Created by and copyright of Nicholas Edward Bailey 22 / 10 / 2021
 #RGB_LED
 ##Arduino C++ Library for working with RGB LEDs
 
