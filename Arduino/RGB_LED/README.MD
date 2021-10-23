@@ -1,6 +1,5 @@
-Created by and copyright of Nicholas Edward Bailey 22 / 10 / 2021
-#RGB_LED
-##Arduino C++ Library for working with RGB LEDs
+# RGB_LED
+## Arduino C++ Library for working with RGB LEDs
 
 Allows setting up of pins and simple colour changes.
 
@@ -10,4 +9,5 @@ Example:
 
 RGB_LED rgb_led(1, 2, 3); // Creates a new LED which assigns pin 1 to red, 2 to green, 3 to blue
 rgb_led.Raspberry(); // Turns the LED to a raspberry colour.
+rgb_led.RGBColour(255, 0, 0); // Turns the LED to a custom RGB colour, in this case red.
 ```
