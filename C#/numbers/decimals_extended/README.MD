@@ -1,9 +1,12 @@
 # decimals_extended
+C# class that extends the decimal variable with useful functions.
 
-## Usage Example:
+## Functions:
+### Normalize()
+Strips a decimal value of excess zeros.
+
+### Usage Example:
 ```
-using DecimalsExtended;
-
 decimal val = 1.1000000000;
 val = val.Normalize();
 // val now equals 1.1 as Normalize strips it of excess zeros.
