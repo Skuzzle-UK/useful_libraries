@@ -4,6 +4,8 @@ Class with simple static functions for returning whether an integer value is tru
 
 ## Usage:
 ```
+#include <even_or_odd.h>
+
 if (Even_Or_Odd::Even(73) {
   Console.WriteLine("Number is even");
 }
