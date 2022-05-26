@@ -34,6 +34,6 @@
 |    |--📂 BUTTON
 
 |--📂 WPF_USER_CONTROLS (Extra controls for WPF forms)
-|    |--[📂 MomentaryNotification.xaml (On screen notification message)](https://github.com/Skuzzle-UK/useful_libraries/tree/main/WPF_USER_CONTROLS/MomentaryNotification)
+|    |--📂 MomentaryNotification.xaml (On screen notification message)
 |    |--📂 NewLine (Adds a page break between controls)
 ```
