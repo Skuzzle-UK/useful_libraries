@@ -6,24 +6,34 @@
  ## Folder Structure
  Libraries are to be placed in a folder which gives context to the library.
 
- For example, *decimals_extended.cs* is placed in the *C#/numbers* folder as it is a C# library for extending decimal numbers.
+ For example, *decimals_extended.cs* is placed in the *CSHARP_CLASS_LIBRARY/NUMBERS* folder as it is a C# class library for extending decimal numbers.
 
- *binary.cs* also makes it to the *C#/numbers* folder due to being a C# library for working with binary numbers.
+ *binary.cs* also makes it to the *CSHARP_CLASS_LIBRARY/NUMBERS* folder due to being a C# class library for working with binary numbers.
 
 ## Library
 ```
-|--📂 Arduino
+|--📂 ARDUINO_LIBRARY
 |    |--📂 RGB_LED
 |
-|--📂 C#
-|    |--📂 encryption
-|    |--📂 keyboard
-|    |    |--📂 GetCharFromKey
+|--📂 C_PLUS_PLUS (C++)
 |    |--📂 numbers
+|    |    |--📂 even_or_odd
+|
+|--📂 CSHARP_CLASS_LIBRARY (C#)
+|    |--📂 ENCRYPTION
+|    |--📂 KEYBOARD
+|    |    |--📂 GetCharFromKey
+|    |--📂 MYSQL
+|    |--📂 NUMBERS
 |    |    |--📂 binary
 |    |    |--📂 decimals_extended
 |
-|--📂 Cpp (C++)
-     |--📂 numbers
-          |--📂 even_or_odd
+|--📂 UNITY_LIBRARY (Unity Game Engine)
+|
+|--📂 WPF_CUSTOM_CONTROLS (Extension classes for WPF controls)
+|    |--📂 BUTTON
+
+|--📂 WPF_USER_CONTROLS (Extra controls for WPF forms)
+|    |--📂 MomentaryNotification.xaml (On screen notification message)
+|    |--📂 NewLine (Adds a page break between controls)
 ```

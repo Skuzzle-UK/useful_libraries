@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MySQL>
+	<server>localhost</server>
+	<port>3306</port>
+	<username>username(after encryption.cs)</username>
+	<password>password(after encryption.cs)</password>
+	<database>database_name</database>
+</MySQL>

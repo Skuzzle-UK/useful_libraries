@@ -1,0 +1,17 @@
+E:\Coding\Libraries\WPF_USER_CONTROLS\obj\Debug\net6.0-windows\WpfUserControls.csproj.AssemblyReference.cache
+E:\Coding\Libraries\WPF_USER_CONTROLS\obj\Debug\net6.0-windows\MomentaryNotification.g.cs
+E:\Coding\Libraries\WPF_USER_CONTROLS\obj\Debug\net6.0-windows\WpfUserControls_MarkupCompile.cache
+E:\Coding\Libraries\WPF_USER_CONTROLS\obj\Debug\net6.0-windows\WpfUserControls_MarkupCompile.lref
+E:\Coding\Libraries\WPF_USER_CONTROLS\bin\Debug\net6.0-windows\WpfUserControls.deps.json
+E:\Coding\Libraries\WPF_USER_CONTROLS\bin\Debug\net6.0-windows\WpfUserControls.dll
+E:\Coding\Libraries\WPF_USER_CONTROLS\bin\Debug\net6.0-windows\WpfUserControls.pdb
+E:\Coding\Libraries\WPF_USER_CONTROLS\obj\Debug\net6.0-windows\MomentaryNotification.baml
+E:\Coding\Libraries\WPF_USER_CONTROLS\obj\Debug\net6.0-windows\WpfUserControls.g.resources
+E:\Coding\Libraries\WPF_USER_CONTROLS\obj\Debug\net6.0-windows\WpfUserControls.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Libraries\WPF_USER_CONTROLS\obj\Debug\net6.0-windows\WpfUserControls.AssemblyInfoInputs.cache
+E:\Coding\Libraries\WPF_USER_CONTROLS\obj\Debug\net6.0-windows\WpfUserControls.AssemblyInfo.cs
+E:\Coding\Libraries\WPF_USER_CONTROLS\obj\Debug\net6.0-windows\WpfUserControls.csproj.CoreCompileInputs.cache
+E:\Coding\Libraries\WPF_USER_CONTROLS\obj\Debug\net6.0-windows\WpfUserControls.dll
+E:\Coding\Libraries\WPF_USER_CONTROLS\obj\Debug\net6.0-windows\refint\WpfUserControls.dll
+E:\Coding\Libraries\WPF_USER_CONTROLS\obj\Debug\net6.0-windows\WpfUserControls.pdb
+E:\Coding\Libraries\WPF_USER_CONTROLS\obj\Debug\net6.0-windows\ref\WpfUserControls.dll

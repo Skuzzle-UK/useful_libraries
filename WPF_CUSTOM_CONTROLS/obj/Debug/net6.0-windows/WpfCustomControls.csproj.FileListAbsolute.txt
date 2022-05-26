@@ -1,0 +1,17 @@
+E:\Coding\Libraries\WPF_CUSTOM_CONTROLS\bin\Debug\net6.0-windows\WpfCustomControls.deps.json
+E:\Coding\Libraries\WPF_CUSTOM_CONTROLS\bin\Debug\net6.0-windows\WpfCustomControls.dll
+E:\Coding\Libraries\WPF_CUSTOM_CONTROLS\bin\Debug\net6.0-windows\WpfCustomControls.pdb
+E:\Coding\Libraries\WPF_CUSTOM_CONTROLS\obj\Debug\net6.0-windows\WpfCustomControls.csproj.AssemblyReference.cache
+E:\Coding\Libraries\WPF_CUSTOM_CONTROLS\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Coding\Libraries\WPF_CUSTOM_CONTROLS\obj\Debug\net6.0-windows\WpfCustomControls_MarkupCompile.cache
+E:\Coding\Libraries\WPF_CUSTOM_CONTROLS\obj\Debug\net6.0-windows\WpfCustomControls_MarkupCompile.lref
+E:\Coding\Libraries\WPF_CUSTOM_CONTROLS\obj\Debug\net6.0-windows\Themes\Generic.baml
+E:\Coding\Libraries\WPF_CUSTOM_CONTROLS\obj\Debug\net6.0-windows\WpfCustomControls.g.resources
+E:\Coding\Libraries\WPF_CUSTOM_CONTROLS\obj\Debug\net6.0-windows\WpfCustomControls.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Libraries\WPF_CUSTOM_CONTROLS\obj\Debug\net6.0-windows\WpfCustomControls.AssemblyInfoInputs.cache
+E:\Coding\Libraries\WPF_CUSTOM_CONTROLS\obj\Debug\net6.0-windows\WpfCustomControls.AssemblyInfo.cs
+E:\Coding\Libraries\WPF_CUSTOM_CONTROLS\obj\Debug\net6.0-windows\WpfCustomControls.csproj.CoreCompileInputs.cache
+E:\Coding\Libraries\WPF_CUSTOM_CONTROLS\obj\Debug\net6.0-windows\WpfCustomControls.dll
+E:\Coding\Libraries\WPF_CUSTOM_CONTROLS\obj\Debug\net6.0-windows\refint\WpfCustomControls.dll
+E:\Coding\Libraries\WPF_CUSTOM_CONTROLS\obj\Debug\net6.0-windows\WpfCustomControls.pdb
+E:\Coding\Libraries\WPF_CUSTOM_CONTROLS\obj\Debug\net6.0-windows\ref\WpfCustomControls.dll

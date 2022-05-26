@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects Condition="'$(MSBuildVersion)' == '' Or '$(MSBuildVersion)' &lt; '16.0'">$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>3ca7005f-8662-4876-b0c6-b65a6abab961</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>CSHARP_CLASS_LIBRARY</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="$(MSBuildThisFileDirectory)ENCRYPTION\encryption-linux64" />
+    <None Include="$(MSBuildThisFileDirectory)ENCRYPTION\encryption-win64.exe" />
+    <None Include="$(MSBuildThisFileDirectory)ENCRYPTION\README.MD" />
+    <None Include="$(MSBuildThisFileDirectory)KEYBOARD\GetCharFromKey\README.MD" />
+    <None Include="$(MSBuildThisFileDirectory)NUMBERS\binary\README.MD" />
+    <None Include="$(MSBuildThisFileDirectory)NUMBERS\decimals_extended\README.MD" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)ENCRYPTION\SimpleEncryption.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)KEYBOARD\GetCharFromKey\GetCharFromKey.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MYSQL\MySQLExtra.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)NUMBERS\binary\binary.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)NUMBERS\decimals_extended\decimals_extended.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)MYSQL\settings\MySQLSettings.xml">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+</Project>
