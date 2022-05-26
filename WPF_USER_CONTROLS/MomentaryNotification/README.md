@@ -27,10 +27,11 @@ SolidColorBrush foregroundBrush = new SolidColorBrush(Colors.Red);
 var sender = this;
 Main.Children.Add(new MomentaryNotification("displayText", false, 2, 4, 400, 200, new Thickness (10, 5, 5, 10), borderBrush, backgroundBrush, foregroundBrush, sender));
 
+//As per the top of this document
 //Example opens the notification with a red border. The border is wider on the left as the thickness(50, 2, 2, 2) suggests.
 //The bool true means that the notification requires acknowledgement via mousedown or keyup.
 //1.5 second display and fade times, sized 400x100
 //border colour is red
 SolidColorBrush border = new SolidColorBrush(Colors.Red);
-Main.Children.Add(new MomentaryNotification("This is a notification window", true, 1.5, 1.5, 400, 100, new Thickness(50, 2, 2, 2), border));
+Main.Children.Add(new MomentaryNotification("MomentaryNotification example", true, 1.5, 1.5, 400, 100, new Thickness(50, 2, 2, 2), border));
 ```
