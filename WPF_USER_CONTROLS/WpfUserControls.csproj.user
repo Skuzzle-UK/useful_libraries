@@ -2,7 +2,7 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
-    <Page Update="MomentaryNotification.xaml">
+    <Page Update="MomentaryNotification\MomentaryNotification.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

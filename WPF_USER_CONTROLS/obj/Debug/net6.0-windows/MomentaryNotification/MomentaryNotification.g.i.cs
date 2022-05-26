@@ -61,8 +61,7 @@ namespace WpfUserControls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfUserControls;V1.0.0.0;component/momentarynotification/momentarynotification.x" +
-                    "aml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WpfUserControls;component/momentarynotification/momentarynotification.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\MomentaryNotification\MomentaryNotification.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

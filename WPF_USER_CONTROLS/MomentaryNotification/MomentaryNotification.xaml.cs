@@ -60,7 +60,7 @@ namespace WpfUserControls
             Height = 100;
         }*/
 
-        public MomentaryNotification(Window sender, string displayText, bool acknowledge = false, double? displayedTime = null, double? fadeTime = null, double? width = null, double? height = null, Thickness? borderThickness = null, Brush? borderBrush = null, Brush? backgroundBrush = null, Brush? foregroundBrush = null)
+        public MomentaryNotification(string displayText, bool acknowledge = false, double? displayedTime = null, double? fadeTime = null, double? width = null, double? height = null, Thickness? borderThickness = null, Brush? borderBrush = null, Brush? backgroundBrush = null, Brush? foregroundBrush = null, Window? sender = null)
         {
             InitializeComponent();
             _acknowledge = acknowledge;
@@ -75,7 +75,14 @@ namespace WpfUserControls
             if (foregroundBrush is not null) Foreground = (Brush)foregroundBrush;
             if (borderBrush is not null) BorderBrush = (Brush)borderBrush;
             if (borderThickness is not null) BorderThickness = (Thickness)borderThickness;
-            _window = sender;
+            if (sender is not null)
+            {
+                _window = sender;
+            }
+            else
+            {
+                _window = Application.Current.MainWindow;
+            }
             subscribeToWindowEvents();
             Visibility = Visibility.Collapsed;
             Show();
