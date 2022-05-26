@@ -1,4 +1,4 @@
-![](sample.png)
+
 
 Beautifully simple WPF notification box which can be thought of as similar way to MessageBox
 It requires a Grid object in the xaml to wrap around the rest of the xaml document or at least the parts where you would like the notifications to be displayed.
